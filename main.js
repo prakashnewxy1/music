@@ -88,12 +88,12 @@ const songs = [
       "https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7bd23b84-d9b0-4604-a7e3-872157a37b61",
   },
     {
-    title: "CUTE DEPRESSED",
-    name: "Dyan Dxddy",
+    title: "Sweater Weather",
+    name: "The Neighbourhood",
     source:
-      "./cutephonk.mp3",
+      "./sweaterweather.mp3",
     cover:
-      "https://p7.hiclipart.com/preview/775/691/791/pixel-art-animated-film-ghost-ghost.jpg",
+      "https://media.senscritique.com/media/000004914874/source_big/Sweater_Weather.jpg",
   },
     {
     title: "Control",
