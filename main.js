@@ -55,6 +55,14 @@ let currentRotation = 0;
 let rotationInterval;
 
 const songs = [
+      {
+    title: "CUTE DEPRESSED",
+    name: "Dyan Dxddy",
+    source:
+      "./cutephonk.mp3",
+    cover:
+      "https://p7.hiclipart.com/preview/775/691/791/pixel-art-animated-film-ghost-ghost.jpg",
+  },
   {
     title: "Redemption",
     name: "Besomorph & Coopex",
