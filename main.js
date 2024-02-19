@@ -95,14 +95,6 @@ const songs = [
     cover:
       "https://media.senscritique.com/media/000004914874/source_big/Sweater_Weather.jpg",
   },
-    {
-    title: "Control",
-    name: "Unknown Brain x Rival",
-    source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Unknown-BrainxRival-Control.mp3",
-    cover:
-      "https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7bd23b84-d9b0-4604-a7e3-872157a37b61",
-  },
 ];
 
 let currentSongIndex = 0;
