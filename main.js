@@ -79,6 +79,22 @@ const songs = [
     cover:
       "https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7bd23b84-d9b0-4604-a7e3-872157a37b61",
   },
+    {
+    title: "CUTE DEPRESSED",
+    name: "Dyan Dxddy",
+    source:
+      "./cutephonk.mp3",
+    cover:
+      "https://p7.hiclipart.com/preview/775/691/791/pixel-art-animated-film-ghost-ghost.jpg",
+  },
+    {
+    title: "Control",
+    name: "Unknown Brain x Rival",
+    source:
+      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Unknown-BrainxRival-Control.mp3",
+    cover:
+      "https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7bd23b84-d9b0-4604-a7e3-872157a37b61",
+  },
 ];
 
 let currentSongIndex = 0;
